@@ -8,8 +8,8 @@ class MyDocument extends Document {
         <Head>
           <meta property="og:title" content="mktoho's portfolio" />
           <meta property="og:type" content="website" />
-          <meta property="og:url" content="https://mktoho.dev/" />
-          <meta property="og:image" content="https://mktoho.dev/og.png" />
+          <meta property="og:url" content="https://blog.mktoho.dev/" />
+          <meta property="og:image" content="https://blog.mktoho.dev/og.png" />
 
           <link rel="icon" href="/favicon.ico" sizes="any" />
           <link rel="icon" href="/icon.svg" type="image/svg+xml" />
